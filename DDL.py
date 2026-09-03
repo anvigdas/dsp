@@ -76,5 +76,5 @@ dll.insert_begin(20)
 dll.insert_begin(10)
 dll.insert_end(40)
 dll.insert_end(50)
-
+dll.delete_begin()
 dll.display()
